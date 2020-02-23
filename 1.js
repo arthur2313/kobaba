@@ -1,1 +1,2 @@
-console.log(1);
+var result = 1;
+console.log(result);
